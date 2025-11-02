@@ -107,6 +107,7 @@ This project leverages **Salesforce Custom Objects, Apex Triggers, Flows, Lightn
 
 ## 👩‍💻 Author
 **Developed by:** Rajavarshini C 
+
 **Project Title:** Medical Inventory Management  
 **Platform:** Salesforce Cloud  
 **Date:** 2nd November 2025  
